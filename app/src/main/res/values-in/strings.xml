@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Submission02 Baru</string>
+    <string name="tab_text_1">Tayang</string>
+    <string name="tab_text_2">Mendatang</string>
+    <string name="tab_text_3">Temukan</string>
+    <string name="action_settings">Bahasa</string>
+    <string name="section_format">Hallo dunia dari sesi: %1$d</string>
+    <string name="please_wait">Mohon tunggu</string>
+    <string name="detail">Rinci</string>
+    <string name="share">Berbagi</string>
+    <string name="find">Cari</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo fragment kosong</string>
+
+</resources>
